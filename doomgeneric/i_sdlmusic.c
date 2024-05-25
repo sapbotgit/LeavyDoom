@@ -21,8 +21,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <SDL.h>
-#include <SDL_mixer.h>
+#include <SDL2/SDL.h>
+#include <SDL2_Mixer/SDL_Mixer.h>
 
 #include "config.h"
 #include "doomtype.h"
